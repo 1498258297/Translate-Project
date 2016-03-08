@@ -1,0 +1,11 @@
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\瑞兹自动挂机\bin\Release\AutoChat.exe.config
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\瑞兹自动挂机\bin\Release\AutoChat.exe
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\瑞兹自动挂机\bin\Release\AutoChat.pdb
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\瑞兹自动挂机\bin\Release\EloBuddy.dll
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\瑞兹自动挂机\bin\Release\EloBuddy.SDK.dll
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\瑞兹自动挂机\bin\Release\SharpDX.dll
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\瑞兹自动挂机\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\瑞兹自动挂机\bin\Release\Newtonsoft.Json.dll
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\瑞兹自动挂机\obj\Release\CH汉化-瑞兹自动挂机.csprojResolveAssemblyReference.cache
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\瑞兹自动挂机\obj\Release\AutoChat.exe
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\瑞兹自动挂机\obj\Release\AutoChat.pdb

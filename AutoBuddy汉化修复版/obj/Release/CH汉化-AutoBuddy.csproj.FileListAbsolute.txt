@@ -1,0 +1,11 @@
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\AutoBuddy汉化修复版\bin\Release\FeederBuddy.exe.config
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\AutoBuddy汉化修复版\bin\Release\FeederBuddy.exe
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\AutoBuddy汉化修复版\bin\Release\FeederBuddy.pdb
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\AutoBuddy汉化修复版\bin\Release\EloBuddy.dll
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\AutoBuddy汉化修复版\bin\Release\EloBuddy.SDK.dll
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\AutoBuddy汉化修复版\bin\Release\SharpDX.dll
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\AutoBuddy汉化修复版\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\AutoBuddy汉化修复版\bin\Release\Newtonsoft.Json.dll
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\AutoBuddy汉化修复版\obj\Release\CH汉化-AutoBuddy.csprojResolveAssemblyReference.cache
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\AutoBuddy汉化修复版\obj\Release\FeederBuddy.exe
+C:\Users\huang_000\Documents\GitHub\Translate-Project\挂机脚本\AutoBuddy汉化修复版\obj\Release\FeederBuddy.pdb
